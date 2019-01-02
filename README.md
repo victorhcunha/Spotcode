@@ -1,2 +1,2 @@
 # Spoticode
-WPA inspirado no spotify
+PWA inspirado no spotify
